@@ -1,4 +1,4 @@
-#YAPBWD - Yet Another Profiler But With Decorators
+# YAPBWD - Yet Another Profiler But With Decorators
 This Profiler uses decorators, so it is easy to use:
 
 * Want to profile time of your program? No problem! Just add @YAPBWD.time_profiler
